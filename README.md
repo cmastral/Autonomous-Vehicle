@@ -1,4 +1,4 @@
-# Thesis Title
+# Thesis
 
 Camera-driven behavioral planning for autonomous vehicles on the CARLA
 Simulator
