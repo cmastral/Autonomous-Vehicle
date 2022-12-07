@@ -25,7 +25,7 @@ All software is free and available in the links above. After installing this sof
 
 # Running CARLA
 
-The method to start a CARLA server depends on the installation method you used and your operating system:
+The method to start a CARLA server depends on the installation method you used and your operating system:\
 For Windows:
 
 ```
