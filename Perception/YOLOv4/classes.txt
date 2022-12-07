@@ -1,7 +1,0 @@
-Vehicle
-Bike
-Motorbike
-Bus
-Traffic Light
-Traffic Sign
-Pedestrian
