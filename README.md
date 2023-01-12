@@ -9,7 +9,7 @@ The purpose of the system is to navigate on the road recognized via optical mean
 Mastralexi Christina Maria\
 Electrical & Computer Engineering Department,\
 Aristotle University of Thessaloniki, Greece\
-September 2022
+December 2022
 
 # Prerequisites
 First CARLA must be installed on your machine ([Windows/Linux](https://carla.readthedocs.io/en/latest/start_quickstart/#b-package-installation) ).
