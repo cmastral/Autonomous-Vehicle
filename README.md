@@ -13,7 +13,7 @@ December 2022
 
 # Prerequisites
 First CARLA must be installed on your machine ([Windows/Linux](https://carla.readthedocs.io/en/latest/start_quickstart/#b-package-installation) ).
-Please go through CARLA-Setup-Guideand install CARLA and all other dependencies properly.
+Please go through CARLA-Setup-Guide and install CARLA and all other dependencies properly.
 
 Install: 
 * [Carla Simulator](https://carla.org/)
